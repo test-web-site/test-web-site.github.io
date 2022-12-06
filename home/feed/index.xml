@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	댓글: Home	</title>
+	<atom:link href="https://test-web-site.github.io/home/feed/" rel="self" type="application/rss+xml" />
+	<link>https://test-web-site.github.io/</link>
+	<description>세종하나교회에 방문하신 성도님들, 주님의 이름으로 사랑하고 축복합니다!</description>
+	<lastBuildDate>Tue, 06 Dec 2022 07:10:23 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+</channel>
+</rss>

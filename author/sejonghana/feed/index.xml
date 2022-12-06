@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>세종하나교회</title>
-	<atom:link href="https://test-web-site.github.io/feed/" rel="self" type="application/rss+xml" />
+	<title>sejonghana &#8211; 세종하나교회</title>
+	<atom:link href="https://test-web-site.github.io/author/sejonghana/feed/" rel="self" type="application/rss+xml" />
 	<link>https://test-web-site.github.io/</link>
 	<description>세종하나교회에 방문하신 성도님들, 주님의 이름으로 사랑하고 축복합니다!</description>
 	<lastBuildDate>Tue, 06 Dec 2022 06:54:35 +0000</lastBuildDate>
