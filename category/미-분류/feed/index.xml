@@ -11,53 +11,13 @@
 	<title>미분류 &#8211; 세종하나교회</title>
 	<atom:link href="https://test-web-site.github.io/category/%EB%AF%B8-%EB%B6%84%EB%A5%98/feed/" rel="self" type="application/rss+xml" />
 	<link>https://test-web-site.github.io/</link>
-	<description>세종하나교회에 방문하신 성도님들, 주님의 이름으로 사랑하고 축복합니다!</description>
-	<lastBuildDate>Tue, 06 Dec 2022 06:54:35 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Tue, 06 Dec 2022 15:59:11 +0000</lastBuildDate>
 	<language>ko-KR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
-	<item>
-		<title>ㅇㅇㅁㄴㄹ</title>
-		<link>https://test-web-site.github.io/2022/12/06/%e3%85%87%e3%85%87%e3%85%81%e3%84%b4%e3%84%b9/</link>
-					<comments>https://test-web-site.github.io/2022/12/06/%e3%85%87%e3%85%87%e3%85%81%e3%84%b4%e3%84%b9/#respond</comments>
-		
-		<dc:creator><![CDATA[sejonghana]]></dc:creator>
-		<pubDate>Tue, 06 Dec 2022 06:54:34 +0000</pubDate>
-				<category><![CDATA[미분류]]></category>
-		<guid isPermaLink="false">https://test-web-site.github.io/?p=36</guid>
-
-					<description><![CDATA[hihi123]]></description>
-										<content:encoded><![CDATA[
-<p> hihi123</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://test-web-site.github.io/2022/12/06/%e3%85%87%e3%85%87%e3%85%81%e3%84%b4%e3%84%b9/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>안녕하세요!</title>
-		<link>https://test-web-site.github.io/2022/12/06/%ec%95%88%eb%85%95%ed%95%98%ec%84%b8%ec%9a%94/</link>
-					<comments>https://test-web-site.github.io/2022/12/06/%ec%95%88%eb%85%95%ed%95%98%ec%84%b8%ec%9a%94/#comments</comments>
-		
-		<dc:creator><![CDATA[sejonghana]]></dc:creator>
-		<pubDate>Tue, 06 Dec 2022 05:50:42 +0000</pubDate>
-				<category><![CDATA[미분류]]></category>
-		<guid isPermaLink="false">https://test-web-site.github.io/?p=1</guid>
-
-					<description><![CDATA[워드프레스에 오신 것을 환영합니다. 이것은 첫 글입니다. 바로 편집하거나 삭제한 다음 쓰기 시작하세요!]]></description>
-										<content:encoded><![CDATA[
-<p>워드프레스에 오신 것을 환영합니다. 이것은 첫 글입니다. 바로 편집하거나 삭제한 다음 쓰기 시작하세요!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://test-web-site.github.io/2022/12/06/%ec%95%88%eb%85%95%ed%95%98%ec%84%b8%ec%9a%94/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>

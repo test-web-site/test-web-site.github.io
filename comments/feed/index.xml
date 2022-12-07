@@ -10,8 +10,8 @@
 	세종하나교회의 댓글	</title>
 	<atom:link href="https://test-web-site.github.io/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://test-web-site.github.io/</link>
-	<description>세종하나교회에 방문하신 성도님들, 주님의 이름으로 사랑하고 축복합니다!</description>
-	<lastBuildDate>Tue, 06 Dec 2022 05:50:42 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Sun, 04 Feb 2018 12:21:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,19 +19,94 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>
-		워드프레스 댓글 관리 도구 작성 안녕하세요!의 댓글		</title>
-		<link>https://test-web-site.github.io/2022/12/06/%ec%95%88%eb%85%95%ed%95%98%ec%84%b8%ec%9a%94/#comment-1</link>
+		admin 작성 A post title의 댓글		</title>
+		<link>https://test-web-site.github.io/2018/02/04/voluptatum-deleniti-atque-corrupti-2/#comment-4</link>
 
-		<dc:creator><![CDATA[워드프레스 댓글 관리 도구]]></dc:creator>
-		<pubDate>Tue, 06 Dec 2022 05:50:42 +0000</pubDate>
-		<guid isPermaLink="false">https://test-web-site.github.io/?p=1#comment-1</guid>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 07 Mar 2014 16:40:14 +0000</pubDate>
+		<guid isPermaLink="false">http://192.232.247.118/imithemes.com/dev/native-church/?p=170#comment-4</guid>
 
-					<description><![CDATA[안녕하세요, 이것은 댓글입니다.
-댓글의 검토, 편집, 삭제를 시작하려면 관리자 화면의 댓글 화면으로 가세요.
-댓글 작성자의 아바타는 &lt;a href=&quot;https://en.gravatar.com/&quot;&gt;그라바타&lt;/a&gt;에서 전송됩니다.]]></description>
-			<content:encoded><![CDATA[<p>안녕하세요, 이것은 댓글입니다.<br />
-댓글의 검토, 편집, 삭제를 시작하려면 관리자 화면의 댓글 화면으로 가세요.<br />
-댓글 작성자의 아바타는 <a href="https://en.gravatar.com/">그라바타</a>에서 전송됩니다.</p>
+					<description><![CDATA[&lt;a href=&quot;https://test-web-site.github.io/2018/02/04/voluptatum-deleniti-atque-corrupti-2/#comment-3&quot;&gt;admin&lt;/a&gt;의 응답.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus.]]></description>
+			<content:encoded><![CDATA[<p><a href="https://test-web-site.github.io/2018/02/04/voluptatum-deleniti-atque-corrupti-2/#comment-3">admin</a>의 응답.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		admin 작성 A post title의 댓글		</title>
+		<link>https://test-web-site.github.io/2018/02/04/voluptatum-deleniti-atque-corrupti-2/#comment-3</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 07 Mar 2014 16:39:57 +0000</pubDate>
+		<guid isPermaLink="false">http://192.232.247.118/imithemes.com/dev/native-church/?p=170#comment-3</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus.]]></description>
+			<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		admin 작성 Voluptatum deleniti atque corrupti의 댓글		</title>
+		<link>https://test-web-site.github.io/sermons/voluptatum-deleniti-atque-corrupti/#comment-16</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2014 10:39:31 +0000</pubDate>
+		<guid isPermaLink="false">http://192.232.247.118/imithemes.com/dev/native-church/?post_type=sermons&#038;p=116#comment-16</guid>
+
+					<description><![CDATA[&lt;a href=&quot;https://test-web-site.github.io/sermons/voluptatum-deleniti-atque-corrupti/#comment-15&quot;&gt;admin&lt;/a&gt;의 응답.
+
+Curabitur nec nulla lectus, non hendrerit lorem. Quisque lorem risus, porttitor eget fringilla non, vehicula sed tortor. Proin enim quam, vulputate at lobortis quis, condimentum at justo. Phasellus nec nisi justo. Ut luctus sagittis nulla at dapibus. Aliquam ullamcorper commodo elit, quis ornare eros consectetur a.]]></description>
+			<content:encoded><![CDATA[<p><a href="https://test-web-site.github.io/sermons/voluptatum-deleniti-atque-corrupti/#comment-15">admin</a>의 응답.</p>
+<p>Curabitur nec nulla lectus, non hendrerit lorem. Quisque lorem risus, porttitor eget fringilla non, vehicula sed tortor. Proin enim quam, vulputate at lobortis quis, condimentum at justo. Phasellus nec nisi justo. Ut luctus sagittis nulla at dapibus. Aliquam ullamcorper commodo elit, quis ornare eros consectetur a.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		admin 작성 Voluptatum deleniti atque corrupti의 댓글		</title>
+		<link>https://test-web-site.github.io/sermons/voluptatum-deleniti-atque-corrupti/#comment-15</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2014 10:38:32 +0000</pubDate>
+		<guid isPermaLink="false">http://192.232.247.118/imithemes.com/dev/native-church/?post_type=sermons&#038;p=116#comment-15</guid>
+
+					<description><![CDATA[&lt;a href=&quot;https://test-web-site.github.io/sermons/voluptatum-deleniti-atque-corrupti/#comment-13&quot;&gt;sdadsdsd&lt;/a&gt;의 응답.
+
+Curabitur nec nulla lectus, non hendrerit lorem. Quisque lorem risus, porttitor eget fringilla non, vehicula sed tortor. Proin enim quam, vulputate at lobortis quis, condimentum at justo. Phasellus nec nisi justo. Ut luctus sagittis nulla at dapibus. Aliquam ullamcorper commodo elit, quis ornare eros consectetur a.]]></description>
+			<content:encoded><![CDATA[<p><a href="https://test-web-site.github.io/sermons/voluptatum-deleniti-atque-corrupti/#comment-13">sdadsdsd</a>의 응답.</p>
+<p>Curabitur nec nulla lectus, non hendrerit lorem. Quisque lorem risus, porttitor eget fringilla non, vehicula sed tortor. Proin enim quam, vulputate at lobortis quis, condimentum at justo. Phasellus nec nisi justo. Ut luctus sagittis nulla at dapibus. Aliquam ullamcorper commodo elit, quis ornare eros consectetur a.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		John Doe 작성 Voluptatum deleniti atque corrupti의 댓글		</title>
+		<link>https://test-web-site.github.io/sermons/voluptatum-deleniti-atque-corrupti/#comment-14</link>
+
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2014 10:11:03 +0000</pubDate>
+		<guid isPermaLink="false">http://192.232.247.118/imithemes.com/dev/native-church/?post_type=sermons&#038;p=116#comment-14</guid>
+
+					<description><![CDATA[Curabitur nec nulla lectus, non hendrerit lorem. Quisque lorem risus, porttitor eget fringilla non, vehicula sed tortor. Proin enim quam, vulputate at lobortis quis, condimentum at justo. Phasellus nec nisi justo. Ut luctus sagittis nulla at dapibus. Aliquam ullamcorper commodo elit, quis ornare eros consectetur a.]]></description>
+			<content:encoded><![CDATA[<p>Curabitur nec nulla lectus, non hendrerit lorem. Quisque lorem risus, porttitor eget fringilla non, vehicula sed tortor. Proin enim quam, vulputate at lobortis quis, condimentum at justo. Phasellus nec nisi justo. Ut luctus sagittis nulla at dapibus. Aliquam ullamcorper commodo elit, quis ornare eros consectetur a.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		sdadsdsd 작성 Voluptatum deleniti atque corrupti의 댓글		</title>
+		<link>https://test-web-site.github.io/sermons/voluptatum-deleniti-atque-corrupti/#comment-13</link>
+
+		<dc:creator><![CDATA[sdadsdsd]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2014 09:37:24 +0000</pubDate>
+		<guid isPermaLink="false">http://192.232.247.118/imithemes.com/dev/native-church/?post_type=sermons&#038;p=116#comment-13</guid>
+
+					<description><![CDATA[fdfdfgdgfgfg]]></description>
+			<content:encoded><![CDATA[<p>fdfdfgdgfgfg</p>
 ]]></content:encoded>
 		
 			</item>
