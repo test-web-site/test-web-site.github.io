@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>college &#8211; 세종하나교회</title>
+	<atom:link href="https://test-web-site.github.io/tag/college/feed/" rel="self" type="application/rss+xml" />
+	<link>https://test-web-site.github.io/</link>
+	<description></description>
+	<lastBuildDate>Sat, 05 Dec 2015 04:49:54 +0000</lastBuildDate>
+	<language>ko-KR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>https://test-web-site.github.io/wp-content/uploads/2014/10/cropped-favicon-512x512-50x50.png</url>
+	<title>college &#8211; 세종하나교회</title>
+	<link>https://test-web-site.github.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>University Ranking</title>
+		<link>https://test-web-site.github.io/the-highest-ranked-university/</link>
+					<comments>https://test-web-site.github.io/the-highest-ranked-university/#respond</comments>
+		
+		<dc:creator><![CDATA[sejonghana]]></dc:creator>
+		<pubDate>Thu, 29 May 2014 10:01:27 +0000</pubDate>
+				<category><![CDATA[Academic]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[academic]]></category>
+		<category><![CDATA[college]]></category>
+		<category><![CDATA[study]]></category>
+		<category><![CDATA[university]]></category>
+		<guid isPermaLink="false">http://demo.cactusthemes.com/university/?p=208</guid>
+
+					<description><![CDATA[Some People and Students in front of the new and futuristic building of the University of Economics and Business in Vienna.]]></description>
+										<content:encoded><![CDATA[<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+<p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p>
+<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga omnis voluptas assumenda est, omnis dolor repellendus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://test-web-site.github.io/the-highest-ranked-university/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
