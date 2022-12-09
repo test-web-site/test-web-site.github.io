@@ -11,44 +11,40 @@
 	<title>세종하나교회</title>
 	<atom:link href="https://test-web-site.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://test-web-site.github.io/</link>
-	<description></description>
-	<lastBuildDate>Tue, 19 Sep 2017 07:57:08 +0000</lastBuildDate>
+	<description>https://test-web-site.github.io/wp-admin/customize.php?return=%2Fwp-admin%2Fadmin.php%3Fpage%3Dot-settings</description>
+	<lastBuildDate>Thu, 08 Dec 2022 16:37:03 +0000</lastBuildDate>
 	<language>ko-KR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=5.9.5</generator>
 
 <image>
-	<url>https://test-web-site.github.io/wp-content/uploads/2014/10/cropped-favicon-512x512-50x50.png</url>
+	<url>https://test-web-site.github.io/wp-content/uploads/2022/12/cropped-logo-32x32.png</url>
 	<title>세종하나교회</title>
 	<link>https://test-web-site.github.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Your Career Starts Here</title>
+		<title>[위남환 목사 주일 2부예배 설교] 에베소에서 2022-12-4</title>
 		<link>https://test-web-site.github.io/video-post/</link>
-					<comments>https://test-web-site.github.io/video-post/#respond</comments>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 03 Jun 2014 10:59:26 +0000</pubDate>
-				<category><![CDATA[Academic]]></category>
-		<category><![CDATA[ADMISSION]]></category>
-		<category><![CDATA[LAW]]></category>
-		<category><![CDATA[video]]></category>
+		<pubDate>Sun, 04 Dec 2022 02:00:00 +0000</pubDate>
+				<category><![CDATA[설교말씀영상]]></category>
 		<guid isPermaLink="false">http://demo.cactusthemes.com/university/?p=237</guid>
 
-					<description><![CDATA[On the other hand we denounce with righteous indignation and dislike men who are so beguiled and demoralized.]]></description>
-										<content:encoded><![CDATA[<p><iframe src="https://player.vimeo.com/video/81087045" width="900" height="506" frameborder="0" title="Aventura Africa Sudafrica Super Slowmotion" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br />
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
-<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p>
-<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>
+					<description><![CDATA[인도: 위남환 목사 제목 : 에베소에서 본문 : 사도행전 19:8~20]]></description>
+										<content:encoded><![CDATA[<p><iframe loading="lazy" title="[세종하나교회 위남환 목사 주일 2부예배 설교] 에베소에서 2022-12-4" width="900" height="506" src="https://www.youtube.com/embed/3l_HjhJAjGo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<ul>
+<li>인도: 위남환 목사</li>
+<li>제목 : 에베소에서</li>
+<li>본문 : 사도행전 19:8~20</li>
+</ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://test-web-site.github.io/video-post/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

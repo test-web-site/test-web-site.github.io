@@ -10,13 +10,13 @@
 	세종하나교회의 댓글	</title>
 	<atom:link href="https://test-web-site.github.io/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://test-web-site.github.io/</link>
-	<description></description>
+	<description>https://test-web-site.github.io/wp-admin/customize.php?return=%2Fwp-admin%2Fadmin.php%3Fpage%3Dot-settings</description>
 	<lastBuildDate>Mon, 10 Apr 2017 06:20:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=5.9.5</generator>
 	<item>
 		<title>
 		university 작성 Ninja Silhouette의 댓글		</title>

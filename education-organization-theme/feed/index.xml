@@ -10,12 +10,12 @@
 	댓글: Education Organization Theme	</title>
 	<atom:link href="https://test-web-site.github.io/education-organization-theme/feed/" rel="self" type="application/rss+xml" />
 	<link>https://test-web-site.github.io/education-organization-theme/</link>
-	<description></description>
+	<description>https://test-web-site.github.io/wp-admin/customize.php?return=%2Fwp-admin%2Fadmin.php%3Fpage%3Dot-settings</description>
 	<lastBuildDate>Sat, 05 Dec 2015 04:49:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=5.9.5</generator>
 </channel>
 </rss>
