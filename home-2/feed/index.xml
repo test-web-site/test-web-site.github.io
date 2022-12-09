@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	댓글: Home	</title>
-	<atom:link href="https://test-web-site.github.io/home-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://test-web-site.github.io/</link>
-	<description>https://test-web-site.github.io/wp-admin/customize.php?return=%2Fwp-admin%2Fadmin.php%3Fpage%3Dot-settings</description>
-	<lastBuildDate>Fri, 09 Dec 2022 00:10:27 +0000</lastBuildDate>
+	<atom:link href="/home-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Hello</description>
+	<lastBuildDate>Fri, 09 Dec 2022 15:39:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
