@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	댓글: Home	</title>
-	<atom:link href="/home-2/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://test-web-site.github.io/home-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://test-web-site.github.io/</link>
 	<description>Hello</description>
 	<lastBuildDate>Sat, 10 Dec 2022 12:07:04 +0000</lastBuildDate>
 	<sy:updatePeriod>

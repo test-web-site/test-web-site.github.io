@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	세종하나교회의 댓글	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://test-web-site.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://test-web-site.github.io/</link>
 	<description>Hello</description>
 	<lastBuildDate>Mon, 10 Apr 2017 06:20:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		university 작성 Ninja Silhouette의 댓글		</title>
-		<link>/product/ninja-silhouette/#comment-1931</link>
+		<link>https://test-web-site.github.io/product/ninja-silhouette/#comment-1931</link>
 
 		<dc:creator><![CDATA[university]]></dc:creator>
 		<pubDate>Mon, 10 Apr 2017 06:20:15 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<item>
 		<title>
 		Danny Jackson 작성 The Ecosystem Within Us의 댓글		</title>
-		<link>/product/the-ecosystem-within-us/#comment-152</link>
+		<link>https://test-web-site.github.io/product/the-ecosystem-within-us/#comment-152</link>
 
 		<dc:creator><![CDATA[Danny Jackson]]></dc:creator>
 		<pubDate>Wed, 09 Jul 2014 03:58:08 +0000</pubDate>
@@ -48,16 +48,16 @@
 		<item>
 		<title>
 		Danny Jackson 작성 Summer Is Coming의 댓글		</title>
-		<link>/summer-is-coming/#comment-3</link>
+		<link>https://test-web-site.github.io/summer-is-coming/#comment-3</link>
 
 		<dc:creator><![CDATA[Danny Jackson]]></dc:creator>
 		<pubDate>Fri, 04 Jul 2014 00:10:42 +0000</pubDate>
 		<guid isPermaLink="false">http://demo.cactusthemes.com/university/?p=143#comment-3</guid>
 
-					<description><![CDATA[&lt;a href=&quot;/summer-is-coming/#comment-2&quot;&gt;Danny Jackson&lt;/a&gt;의 응답.
+					<description><![CDATA[&lt;a href=&quot;https://test-web-site.github.io/summer-is-coming/#comment-2&quot;&gt;Danny Jackson&lt;/a&gt;의 응답.
 
 Agreed. I have been working with Wordpress since 2008 and never found a more suitable theme like this one.]]></description>
-			<content:encoded><![CDATA[<p><a href="/summer-is-coming/#comment-2">Danny Jackson</a>의 응답.</p>
+			<content:encoded><![CDATA[<p><a href="https://test-web-site.github.io/summer-is-coming/#comment-2">Danny Jackson</a>의 응답.</p>
 <p>Agreed. I have been working with WordPress since 2008 and never found a more suitable theme like this one.</p>
 ]]></content:encoded>
 		
@@ -65,7 +65,7 @@ Agreed. I have been working with Wordpress since 2008 and never found a more sui
 		<item>
 		<title>
 		Danny Jackson 작성 Summer Is Coming의 댓글		</title>
-		<link>/summer-is-coming/#comment-2</link>
+		<link>https://test-web-site.github.io/summer-is-coming/#comment-2</link>
 
 		<dc:creator><![CDATA[Danny Jackson]]></dc:creator>
 		<pubDate>Fri, 04 Jul 2014 00:09:34 +0000</pubDate>

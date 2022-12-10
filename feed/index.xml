@@ -9,8 +9,8 @@
 
 <channel>
 	<title>세종하나교회</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://test-web-site.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://test-web-site.github.io/</link>
 	<description>Hello</description>
 	<lastBuildDate>Tue, 19 Sep 2017 07:57:08 +0000</lastBuildDate>
 	<language>ko-KR</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.9.5</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/12/cropped-로고흰색-32x32.png</url>
+	<url>https://test-web-site.github.io/wp-content/uploads/2022/12/cropped-로고흰색-32x32.png</url>
 	<title>세종하나교회</title>
-	<link>/</link>
+	<link>https://test-web-site.github.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Your Career Starts Here</title>
-		<link>/video-post/</link>
-					<comments>/video-post/#respond</comments>
+		<link>https://test-web-site.github.io/video-post/</link>
+					<comments>https://test-web-site.github.io/video-post/#respond</comments>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Tue, 03 Jun 2014 10:59:26 +0000</pubDate>
@@ -47,15 +47,15 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/video-post/feed/</wfw:commentRss>
+					<wfw:commentRss>https://test-web-site.github.io/video-post/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Spark Of Genius</title>
-		<link>/gallery-post/</link>
-					<comments>/gallery-post/#respond</comments>
+		<link>https://test-web-site.github.io/gallery-post/</link>
+					<comments>https://test-web-site.github.io/gallery-post/#respond</comments>
 		
 		<dc:creator><![CDATA[sejonghana]]></dc:creator>
 		<pubDate>Tue, 03 Jun 2014 10:56:16 +0000</pubDate>
@@ -69,15 +69,15 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 <p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/gallery-post/feed/</wfw:commentRss>
+					<wfw:commentRss>https://test-web-site.github.io/gallery-post/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>University Ranking</title>
-		<link>/the-highest-ranked-university/</link>
-					<comments>/the-highest-ranked-university/#respond</comments>
+		<link>https://test-web-site.github.io/the-highest-ranked-university/</link>
+					<comments>https://test-web-site.github.io/the-highest-ranked-university/#respond</comments>
 		
 		<dc:creator><![CDATA[sejonghana]]></dc:creator>
 		<pubDate>Thu, 29 May 2014 10:01:27 +0000</pubDate>
@@ -95,15 +95,15 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga omnis voluptas assumenda est, omnis dolor repellendus.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/the-highest-ranked-university/feed/</wfw:commentRss>
+					<wfw:commentRss>https://test-web-site.github.io/the-highest-ranked-university/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Our New Campus</title>
-		<link>/our-new-campus/</link>
-					<comments>/our-new-campus/#respond</comments>
+		<link>https://test-web-site.github.io/our-new-campus/</link>
+					<comments>https://test-web-site.github.io/our-new-campus/#respond</comments>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 28 May 2014 10:27:36 +0000</pubDate>
@@ -119,15 +119,15 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 <p>To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/our-new-campus/feed/</wfw:commentRss>
+					<wfw:commentRss>https://test-web-site.github.io/our-new-campus/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Education Organization Theme</title>
-		<link>/education-organization-theme/</link>
-					<comments>/education-organization-theme/#respond</comments>
+		<link>https://test-web-site.github.io/education-organization-theme/</link>
+					<comments>https://test-web-site.github.io/education-organization-theme/#respond</comments>
 		
 		<dc:creator><![CDATA[sejonghana]]></dc:creator>
 		<pubDate>Wed, 28 May 2014 10:26:43 +0000</pubDate>
@@ -145,15 +145,15 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/education-organization-theme/feed/</wfw:commentRss>
+					<wfw:commentRss>https://test-web-site.github.io/education-organization-theme/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Summer Is Coming</title>
-		<link>/summer-is-coming/</link>
-					<comments>/summer-is-coming/#comments</comments>
+		<link>https://test-web-site.github.io/summer-is-coming/</link>
+					<comments>https://test-web-site.github.io/summer-is-coming/#comments</comments>
 		
 		<dc:creator><![CDATA[sejonghana]]></dc:creator>
 		<pubDate>Tue, 27 May 2014 10:41:19 +0000</pubDate>
@@ -168,15 +168,15 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/summer-is-coming/feed/</wfw:commentRss>
+					<wfw:commentRss>https://test-web-site.github.io/summer-is-coming/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Visiting Our Campus</title>
-		<link>/blog-post-3/</link>
-					<comments>/blog-post-3/#respond</comments>
+		<link>https://test-web-site.github.io/blog-post-3/</link>
+					<comments>https://test-web-site.github.io/blog-post-3/#respond</comments>
 		
 		<dc:creator><![CDATA[sejonghana]]></dc:creator>
 		<pubDate>Tue, 27 May 2014 10:38:33 +0000</pubDate>
@@ -191,15 +191,15 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 <p>Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blog-post-3/feed/</wfw:commentRss>
+					<wfw:commentRss>https://test-web-site.github.io/blog-post-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Video Post</title>
-		<link>/video-post-2/</link>
-					<comments>/video-post-2/#respond</comments>
+		<link>https://test-web-site.github.io/video-post-2/</link>
+					<comments>https://test-web-site.github.io/video-post-2/#respond</comments>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Sun, 08 Dec 2013 22:32:21 +0000</pubDate>
@@ -210,15 +210,15 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 										<content:encoded><![CDATA[<p>Video Post</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/video-post-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://test-web-site.github.io/video-post-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Status Post</title>
-		<link>/status-post/</link>
-					<comments>/status-post/#respond</comments>
+		<link>https://test-web-site.github.io/status-post/</link>
+					<comments>https://test-web-site.github.io/status-post/#respond</comments>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Sun, 08 Dec 2013 22:31:59 +0000</pubDate>
@@ -229,15 +229,15 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 										<content:encoded><![CDATA[<p>Status Post</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/status-post/feed/</wfw:commentRss>
+					<wfw:commentRss>https://test-web-site.github.io/status-post/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Quote Post</title>
-		<link>/quote-post/</link>
-					<comments>/quote-post/#respond</comments>
+		<link>https://test-web-site.github.io/quote-post/</link>
+					<comments>https://test-web-site.github.io/quote-post/#respond</comments>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Sun, 08 Dec 2013 22:31:36 +0000</pubDate>
@@ -248,7 +248,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 										<content:encoded><![CDATA[<p>Quote Post</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/quote-post/feed/</wfw:commentRss>
+					<wfw:commentRss>https://test-web-site.github.io/quote-post/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
