@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    background-color: #f0f0f0;
+	font-family: 'SCoreDream';
+}
+
+.heading-page {
+    position: relative;
+    padding: 20px 0;
+    background-size: cover;
+    background-position: center;
+}
+
+.header-text {
+    color: #ffffff;
+    text-align: center;
+    padding: 60px 0;
+}
+
+/* 네비게이션 바를 섹션의 제일 밑으로 이동 */
+.navbar {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/* 메뉴 항목 */
+.menu-item {
+    position: relative;
+    margin: 0;
+    padding: 10px 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    white-space: nowrap;
+    border-radius: 0;
+}
+
+/* 메뉴 항목 링크 스타일 */
+.menu-item a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: -0.1px;
+    vertical-align: middle;
+    padding: 10px 0;
+    display: block;
+}
+
+/* 메뉴 항목에 음영 */
+.menu-item::before {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    height: 2px;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    transition: background-color 0.3s ease;
+}
+
+/* 활성화된 메뉴 항목 */
+.menu-item.active a {
+    font-weight: 700;
+}
+
+/* 활성화된 메뉴 항목의 음영 */
+.menu-item.active::before {
+    background-color: #007bff;
+}
+
+/* 하이라이트 바 (마우스 오버) */
+.menu-item:hover::before {
+    background-color: #007bff;
+    height: 3px; /* Adjust height if needed */
+}
+
+/* 모바일 화면에서 메뉴 숨기기 */
+
+

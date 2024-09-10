@@ -1,0 +1,48 @@
+/* styles.css */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.pdf-viewer {
+    display: flex;
+    flex-direction: column; /* Stack pages vertically */
+    height: 100%; /* Full viewport height */
+    overflow: auto; /* Enable scrolling if needed */
+}
+
+.pdf-page {
+    position: relative;
+    width: 100%;
+    background-color: #f4f4f4; /* Optional background color */
+    border-bottom: 1px solid #ddd; /* Optional border for separation */
+}
+
+.pdf-page:last-child {
+    border-bottom: none; /* Remove border for the last page */
+}
+
+.pdf-page canvas {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.table tbody tr:last-child {
+    border-bottom: 2px solid #333; /* 굵은 검은색 선 추가 */
+}
+
+.table {
+    border-collapse: separate; /* 테두리가 겹치지 않도록 설정 */
+    border-spacing: 0; /* 간격 제거 */
+}
+
+.table tbody tr td {
+    border-bottom: 1px solid #ddd; /* 각 행의 하단에 얇은 테두리 추가 */
+}
+
+.table thead th {
+    border-bottom: 2px solid #333; /* 테이블 헤더에 굵은 하단 테두리 추가 */
+}
+

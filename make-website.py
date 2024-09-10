@@ -6,24 +6,26 @@ import requests
 from pytube import Playlist
 from pytube import YouTube
 
+from PIL import Image
+
 SERMON_INJ = '''
                 <div class="col-lg-4 templatemo-item-col all">
                   <div class="meeting-item">
-                    <a href="%s">
+                    <a href="%s" class="video">
                     <div class="thumb">
                       <div class="price">
                         <span><i class="fa fa-play" aria-hidden="true"></i></span>
                       </div>
                       <img src="%s" alt="">
                     </div>
-                    </a>
                     <div class="down-content">
                       <div class="date">
                           <h6>%s년 %s월 <span>%s일</span></h6>
                       </div>
-                      <a href="https://www.youtube.com/watch?v=hdJuxKBK3FE&list=PLYVmVd0kt83di-vtfFo6FY68Zm8IEhS5M&index=1"><h4>%s</h4></a>
+                      <h4>%s</h4>
                       <p>위남환 목사<br>%s</p>
                     </div>
+                    </a>
                   </div>
                 </div>
 '''
@@ -90,13 +92,17 @@ def make_sermon():
         start_url_idx = page * 9
         print ("go")
 
+        cnt = 0
+
         for video_idx in range(start_url_idx, start_url_idx + plus_num):
+            cnt += 1
             url = urls[video_idx]
             id = url.split("=")[-1]
             thumbnail_url = "sermon/thumbnail/%s.jpg" % id
 
+            print (url)
+
             yt = YouTube(url)
-            stream = yt.streams.first()
             description = get_description(yt)
             sermon_description = ""
             if description != False:
@@ -114,9 +120,11 @@ def make_sermon():
 
             print (sermon_title, sermon_year, sermon_month, sermon_day)
 
-            download_img("https://img.youtube.com/vi/%s/maxresdefault.jpg" % id, thumbnail_url)
+            thum_down_result = download_img("https://img.youtube.com/vi/%s/maxresdefault.jpg" % id, thumbnail_url)
+            print (thum_down_result)
 
             sermon_list += SERMON_INJ % (url, "thumbnail/%s.jpg" % id, sermon_year, sermon_month, sermon_day, sermon_title, sermon_description)
+
             sermon_list += "\n"
 
         real_page_count = page + 1

@@ -35,7 +35,10 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css" integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9" crossorigin="anonymous">
 
     <link rel="shortcut icon" href="../assets/images/favicon.ico">
-    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.min.js"></script>
+    <link rel="stylesheet" href="../styles2.css">
+
+    <script src="../script.js"></script>
     <style>
       body {
         word-break: keep-all;
@@ -45,10 +48,13 @@
 
     <link rel="stylesheet" href="../assets/css/jt-strap.css">
     <link rel="stylesheet" href="../assets/css/main2.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.min.js"></script>
 
   </head>
 
 <body>
+
+
 
   <!-- ***** Header Area Start ***** -->
   <header class="header-area header-sticky" style="top:0px">
@@ -99,34 +105,141 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <h6>하나님의 마음 알기</h6>
-          <h2>설교</h2>
+          <h2>하나주보</h2>
         </div>
       </div>
     </div>
   </section>
 
-  <section class="meetings-page" id="meetings">
-    <div class="container">
-         <div class="row row-cols-3">
 
-                [SERMON_LIST]
-
-         </div>
-
-         <div class="row grid">
-            <div class="col-lg-12">
-              <div class="pagination">
-                <ul>
-                    [PAGE_NATION]
-                </ul>
-              </div>
+<div class="container my-5">
+    <div class="row">
+        <!-- Left Column (Title Component and Preview) - 60% width -->
+        <div class="col-md-7 d-flex flex-column justify-content-between">
+            <!-- Title Component -->
+            <div class="card mb-4">
+                <div class="card-body" id="document">
+                            <div class="content">
+            <div class="icon-text">
+                <!-- You can replace this with an actual icon -->
+                <h1 class="title"><i class="fa fa-book" aria-hidden="true"></i>이 주의 주보</h1>
             </div>
-          </div>
-          </div>
+            <h2 class="subtitle">2024년 8월 18일 셋째 주</h2>
         </div>
-      </div>
+                </div>
+            </div>
+
+            <!-- PDF Preview Component -->
+            <div class="card mt-auto">
+                <div class="card-body">
+                
+                 <div class="pdf-viewer">
+        <div id="pdf-page-1" class="pdf-page"></div>
+        <div id="pdf-page-2" class="pdf-page"></div>
     </div>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- Right Column (Document List) - 40% width -->
+        <aside class="col-md-5">
+            <div class="card">
+                <div class="card-body">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th>번호</th>
+                                <th>제목</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!-- Wrapping row content with <a> for link -->
+                            <tr>
+                                <td><a href="document/0818.pdf">792</a></td>
+                                <td><a href="document/0818.pdf"><span class="badge bg-danger">New</span> 2024년 8월 18일 셋째 주</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="document/0818.pdf">792</a></td>
+                                <td><a href="document/0818.pdf"> 2024년 8월 18일 셋째 주</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="document/0818.pdf">792</a></td>
+                                <td><a href="document/0818.pdf"> 2024년 8월 18일 셋째 주</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="document/0818.pdf">792</a></td>
+                                <td><a href="document/0818.pdf"> 2024년 8월 18일 셋째 주</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="document/0818.pdf">792</a></td>
+                                <td><a href="document/0818.pdf"> 2024년 8월 18일 셋째 주</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="document/0818.pdf">792</a></td>
+                                <td><a href="document/0818.pdf"> 2024년 8월 18일 셋째 주</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="document/0818.pdf">792</a></td>
+                                <td><a href="document/0818.pdf"> 2024년 8월 18일 셋째 주</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="document/0818.pdf">792</a></td>
+                                <td><a href="document/0818.pdf"> 2024년 8월 18일 셋째 주</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="document/0818.pdf">792</a></td>
+                                <td><a href="document/0818.pdf"> 2024년 8월 18일 셋째 주</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="document/0818.pdf">792</a></td>
+                                <td><a href="document/0818.pdf"> 2024년 8월 18일 셋째 주</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="document/0818.pdf">792</a></td>
+                                <td><a href="document/0818.pdf"> 2024년 8월 18일 셋째 주</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="document/0818.pdf">792</a></td>
+                                <td><a href="document/0818.pdf"> 2024년 8월 18일 셋째 주</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="document/0818.pdf">792</a></td>
+                                <td><a href="document/0818.pdf"> 2024년 8월 18일 셋째 주</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="document/0818.pdf">792</a></td>
+                                <td><a href="document/0818.pdf"> 2024년 8월 18일 셋째 주</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href="document/0818.pdf">792</a></td>
+                                <td><a href="document/0818.pdf"> 2024년 8월 18일 셋째 주</a></td>
+                            </tr>
+                            <!-- Add more documents here -->
+                        </tbody>
+                    </table>
+
+                    <!-- Pagination Component -->
+                    <nav aria-label="Page navigation">
+                        <ul class="pagination justify-content-center">
+                            <li class="page-item"><a class="page-link" href="#" aria-label="Previous"><span aria-hidden="true">&lt;</span></a></li>
+                            <li class="page-item"><a class="page-link" href="#">1</a></li>
+                            <li class="page-item"><a class="page-link" href="#">2</a></li>
+                            <li class="page-item"><a class="page-link" href="#">3</a></li>
+                            <li class="page-item"><a class="page-link" href="#">4</a></li>
+                            <li class="page-item"><a class="page-link" href="#">5</a></li>
+                            <li class="page-item"><a class="page-link" href="#">6</a></li>
+                            <li class="page-item"><a class="page-link" href="#" aria-label="Next"><span aria-hidden="true">&gt;</span></a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+
+
+ 
     <div class="footer">
       <p>Copyright © 2022 Edu Meeting Co., Ltd. All Rights Reserved. 
           <br>
