@@ -375,7 +375,7 @@ header
 .header-area .main-nav .nav li a {
   display: block;
   font-weight: 500;
-  font-size: 14px;
+  font-size: 19px;
   text-transform: uppercase;
   color: #fff;
   -webkit-transition: all 0.3s ease 0s;
@@ -820,6 +820,7 @@ services
 }
 
 .services .item {
+
   background-image: url(../images/service-item-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -929,7 +930,7 @@ upcoming meetings
 */
 
 section.upcoming-meetings {
-  background-image: url(../images/meetings-bg.jpg);
+  background-color: #1E262B;
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1534,7 +1535,17 @@ upcoming meetings page
 */
 
 section.meetings-page {
-  background-image: url(../images/meetings-page-bg.jpg);
+  background-color: #1E262B;
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 90px;
+  padding-bottom: 0px;
+}
+
+section.cafe-page {
+  background-color: #F1E4BE;
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;

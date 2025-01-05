@@ -1,0 +1,127 @@
+        .container-cafe {
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        /* 리스트 스타일 복원 */
+        ul {
+            list-style-type: disc; /* 기본 원형 불릿 스타일 */
+            padding-left: 20px; /* 왼쪽 여백 추가 */
+        }
+
+        /* 슬라이더 */
+        .slider {
+            width: 100%;
+            position: relative;
+            overflow: hidden;
+            padding-bottom: 56.25%; /* 16:9 비율을 위한 패딩 (9/16 = 0.5625) */
+border-radius:10px;
+        }
+
+        .slides {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+        }
+
+        .slide {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            opacity: 0;
+            transition: opacity 1s ease-in-out; /* 전환 시간 1초 */
+            z-index: 1;
+        }
+
+        .slide.active {
+            opacity: 1;
+            z-index: 2;
+        }
+
+        /* 인덱스 바 스타일 */
+        .slider-index {
+            position: absolute;
+            bottom: 30px; /* 바의 위치 조정 */
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex; /* 플렉스 레이아웃 */
+            width: 60%; /* 전체 바의 너비 */
+            z-index: 3; /* 인덱스 바의 z-index 높임 */
+        }
+
+        .index-bar {
+            flex: 1; /* 각 인덱스 바가 동일한 너비를 가지도록 설정 */
+            height: 4px; /* 바의 두께 */
+            background-color: rgba(255, 255, 255, 0.8); /* 기본 바 색상 */
+            margin: 0 2px; /* 바 간격 */
+            transition: background-color 0.3s; /* 활성화 시 색상 전환 효과 */
+            cursor: pointer; /* 커서 포인터로 변경 */
+        }
+
+        .index-bar.active {
+            background-color: #ff9900; /* 활성화된 인덱스 바 색상 */
+        }
+
+        /* 메뉴 및 이용 안내 섹션 */
+        .menu-info {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 50px;
+            padding: 30px;
+            background-color: #fff; /* 배경색 변경 */
+            border-radius: 10px; /* 둥근 모서리 */
+            box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); /* 그림자 효과 */
+        }
+
+        .menu, .info {
+            width: 48%;
+            padding: 20px; /* 내부 여백 추가 */
+            border-radius: 5px; /* 둥근 모서리 */
+            background-color: #f9f9f9; /* 메뉴 및 이용 안내 섹션 배경색 */
+            transition: background-color 0.3s; /* 호버 효과 */
+        }
+
+        .menu:hover, .info:hover {
+            background-color: #ffe0b2; /* 호버 시 배경색 변경 */
+        }
+
+        h2 {
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #555;
+        }
+
+        /* 슬라이더 버튼 */
+        .slider-btn {
+            position: absolute;
+            top: 50%;
+            width: 40px;
+            height: 40px;
+            background-color: rgba(255, 255, 255, 0.7);
+            border: none;
+            border-radius: 50%;
+            font-size: 18px;
+            cursor: pointer;
+            z-index: 10;
+            transform: translateY(-50%);
+        }
+
+        .prev {
+            left: 20px;
+        }
+
+        .next {
+            right: 20px;
+        }
+

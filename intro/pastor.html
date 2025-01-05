@@ -29,7 +29,6 @@
     <link rel="stylesheet" href="../assets/css/templatemo-edu-meeting.css">
     <link rel="stylesheet" href="../assets/css/owl.css">
     <link rel="stylesheet" href="../assets/css/lightbox.css">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css" integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9" crossorigin="anonymous">
 
     <link rel="shortcut icon" href="../assets/images/favicon.ico">
     
@@ -37,11 +36,92 @@
       body {
         word-break: keep-all;
       }
+        .container {
+            margin: 0 auto;
+            padding: 30px;
+            display: flex;
+            justify-content: center;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .header h1 {
+            font-size: 10px;
+            margin: 0;
+        }
+        .content {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            max-width: 1000px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .text {
+            flex: 1;
+            min-width: 300px;
+        }
+        .text p {
+            line-height: 1.6;
+            margin: 15px 0;
+            font-size: 17px;
+        }
+        .text b {
+            font-weight: bold;
+        }
+        .image {
+            flex: 1;
+            min-width: 300px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        .image img {
+            max-width: 100%;
+            width:400px;
+            height: auto;
+            border-radius: 8px;
+            position: relative;
+            opacity: 0;
+            transform: translateY(20px);
+            animation: fadeInUp 2s ease-in-out forwards;
+        }
+        @keyframes fadeInUp {
+            0% {
+                opacity: 0.2;
+                transform: translateY(20px);
+            }
+            100% {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        .signature {
+            text-align: right;
+            margin-top: 20px;
+            font-style: italic;
+        }
+        .signature img {
+            height: 50px;
+            vertical-align: middle;
+        }
+
+        @media (max-width: 768px) {
+            .content {
+                flex-direction: column-reverse;
+            }
+        }
     </style>
 
 
     <link rel="stylesheet" href="../assets/css/jt-strap.css">
     <link rel="stylesheet" href="../assets/css/main2.css">
+
+
+    <link rel="stylesheet" href="../styles.css">
 
   </head>
 
@@ -55,7 +135,7 @@
               <div class="col-12">
                   <nav class="main-nav">
                       <!-- ***** Logo Start ***** -->
-                      <a href="index.html" class="logo">
+                      <a href="../index.html" class="logo">
                           세종하나교회
                       </a>
                       <!-- ***** Logo End ***** -->
@@ -92,80 +172,68 @@
       </div>
   </header>
 
-
-   <section class="heading-page header-text" id="top" style="background-image: url(../assets/images/cafe-banner.jpeg);">
+<section class="heading-page header-text" id="top" style="background-image: url(../assets/images/church.jpg);">
     <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <h6>세종하나교회와 지역 사회를 위한 쉼터,</h6>
-          <h2>카페미문</h2>
+        <div class="row">
+            <div class="col-lg-12">
+                <h2>목회자 인사말</h2>
+            </div>
         </div>
-      </div>
     </div>
-  </section>
+    <!-- 네비게이션 바를 section의 제일 밑으로 이동 -->
+    <div class="navbar">
+        <div class="menu-item active" data-index="0">
+            <a href="intro/pastor.html">목회자 인사말</a>
+        </div>
+        <div class="menu-item" data-index="1">
+            <a href="vision.html">교회비전</a>
+        </div>
+        <div class="menu-item" data-index="2">
+            <a href="history.html">교회연혁</a>
+        </div>
+        <div class="menu-item" data-index="3">
+            <a href="people.html">섬기는 사람들</a>
+        </div>
+        <div class="menu-item" data-index="4">
+            <a href="location.html">위치안내</a>
+        </div>
+    </div> 
+</section>
+
 
   <section class="meetings-page" id="meetings">
     <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="row">
-            <div class="col-lg-12">
-              <div class="meeting-single-item">
-                <div class="thumb">
-                  <a href="meeting-details.html"><img src="../assets/images/single-meeting.jpg" alt=""></a>
+        <div class="content" style="padding-bottom: 0px;">
+             <div class="text" style="
+    padding: 30px;
+">
+                <p style="display: inline-block;
+    padding-top: 20px;
+    border-top: 3px solid #0072bb;
+    font-size: 22px;
+    line-height: 140%;">인사말</p>
+                <br><br><br>
+                <h2>세종하나교회는 항상 열려있습니다</h2>
+                <p>
+                    <b>세종하나교회는, 예수님께서 주인 되시고 성령님께서 이끄시는 교회입니다.</b>
+                </p>
+                <p>
+                    하나교회는 거듭난 하나님의 자녀로 하나님을 경험하는 감격의 예배가 있으며,
+행복한 삶을 누리고 일꾼으로 회복되어 가정과 지역사회와 민족,
+그리고 세계 열방에 주님의 증인된 삶을 살고자 고백한 신앙공동체입니다.
+값진 삶을 위해 여러분을 초대합니다!<br><br>
+                </p>
+                <div class="signature">
+                    <em>세종하나교회 위남환 담임목사</em><br>
                 </div>
-                <div class="down-content">
-                  <a href="meeting-details.html"><h4>Online Teaching and Learning Tools</h4></a>
-                  <p>Recreio dos Bandeirantes, Rio de Janeiro - RJ, 22795-008, Brazil</p>
-                  <p class="description">
-                    This is an edu meeting HTML CSS template provided by <a href="https://templatemo.com/" target="_blank" rel="nofollow">TemplateMo website</a>. This is a Bootstrap v5.1.3 layout. If you need more free website templates like this one, please visit our website TemplateMo. Please tell your friends about our website. Thank you. If you want to get the latest collection of HTML CSS templates for your websites, you may visit <a rel="nofollow" href="https://www.toocss.com/" target="_blank">Too CSS website</a>. If you need a working contact form script, please visit <a href="https://templatemo.com/contact" target="_parent">our contact page</a> for more info.
-                    
-                    <br><br>You are allowed to use this edu meeting CSS template for your school or university or business. You can feel free to modify or edit this layout. You are not allowed to redistribute the template ZIP file on any other template website. Please contact us for more information.
-                  </p>
-                  <div class="row">
-                    <div class="col-lg-4">
-                      <div class="hours">
-                        <h5>Hours</h5>
-                        <p>Monday - Friday: 07:00 AM - 13:00 PM<br>Saturday- Sunday: 09:00 AM - 15:00 PM</p>
-                      </div>
-                    </div>
-                    <div class="col-lg-4">
-                      <div class="location">
-                        <h5>Location</h5>
-                        <p>Recreio dos Bandeirantes, 
-                        <br>Rio de Janeiro - RJ, 22795-008, Brazil</p>
-                      </div>
-                    </div>
-                    <div class="col-lg-4">
-                      <div class="book now">
-                        <h5>Book Now</h5>
-                        <p>010-020-0340<br>090-080-0760</p>
-                      </div>
-                    </div>
-                    <div class="col-lg-12">
-                      <div class="share">
-                        <h5>Share:</h5>
-                        <ul>
-                          <li><a href="#">Facebook</a>,</li>
-                          <li><a href="#">Twitter</a>,</li>
-                          <li><a href="#">Linkedin</a>,</li>
-                          <li><a href="#">Behance</a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
             </div>
-            <div class="col-lg-12">
-              <div class="main-button-red">
-                <a href="meetings.html">Back To Meetings List</a>
-              </div>
+            <div class="image">
+                <img src="pastor.png" alt="Pastor's Image">
             </div>
-          </div>
         </div>
-      </div>
     </div>
+
+   
     <div class="footer">
       <p>Copyright © 2022 Edu Meeting Co., Ltd. All Rights Reserved. 
           <br>
@@ -180,7 +248,7 @@
   <!-- Scripts -->
   <!-- Bootstrap core JavaScript -->
     <script src="../vendor/jquery/jquery.min.js"></script>
-    <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="../vendor/bootstrap/js/bootstrap.min.js"></script>
 
     <script src="../assets/js/isotope.min.js"></script>
     <script src="../assets/js/owl-carousel.js"></script>
